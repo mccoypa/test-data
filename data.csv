@@ -8,7 +8,7 @@ planetary_body,aphelion,acceleration
 "Jupiter",816520800,25.93
 "Io",,1.789
 "Eu4ropa",,1.314
-"Ganymede",,1.426
+"Ganymede",100,1.426
 "Callisto",,1.24
 "Saturn",1513325783,11.19
 "Titan",,1.3455
